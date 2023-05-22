@@ -11,5 +11,7 @@
 
 # run (php artisan serve)
 
-You can find the code in http/controllers/api directory and http/controllers and http/models
+# You can find the code in http/controllers/api directory and http/controllers and http/models
+
+# I deployed this application in my development server. https:://urlgenerator.zbapps.in
 
