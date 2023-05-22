@@ -1,8 +1,6 @@
 # newsbytes_url_generator_laravel
 
-git clone https://github.com/bhagabatabehera30/newsbytes_url_generator_laravel.git
-
-to your local server (htdocs/www) directory or remort server (www/html) in aws ec2 instance
+# git clone https://github.com/bhagabatabehera30/newsbytes_url_generator_laravel.git  to your local server (htdocs/www) directory or remort server (www/html) in aws ec2 instance
 
 # This application is in latest laravel version
 # for the system configuration please follow the laravel doc url
